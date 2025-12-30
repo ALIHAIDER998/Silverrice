@@ -38,7 +38,7 @@ Usage of Silverrice for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/alihaider998/silverrice/git
-cd silverrice
+git clone https://github.com/alihaider998/Silverrice/git
+cd Silverrice
 bash silverrice.sh
 ```
